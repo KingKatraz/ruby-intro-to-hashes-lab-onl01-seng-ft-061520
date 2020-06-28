@@ -3,7 +3,7 @@ require 'pry'
 def new_hash
  new_hash = {}
 end
-binding.pry
+
 def actor
   actor = {name: "Dwayne The Rock Johnson"}
 end
